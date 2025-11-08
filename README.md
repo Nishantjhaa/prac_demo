@@ -1,3 +1,4 @@
 # prac_demo
 just for learning
-author-Nishant
+<br>
+Name: Nishant jha
